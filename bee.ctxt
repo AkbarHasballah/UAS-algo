@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=bee
+comment1.params=
+comment1.target=void\ gerak()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ bee\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=java.sql.Connection\ configDB()
+numComments=4
